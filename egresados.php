@@ -154,7 +154,7 @@ $filtroCarrera = isset($_GET['carrera']) ? $_GET['carrera'] : '';
 
         <div class="buttons__cover">
             <a class="btn__register-cover" href="#buscar">Buscar Egresado</a>
-            <a class="btn__readMore-cover" href="#banner">Leer más</a>
+            <a class="btn__readMore-cover" href="datatables/index.php">Ver lista de egresados</a>
         </div>
 
     </div>
