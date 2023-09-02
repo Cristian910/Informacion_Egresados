@@ -2,6 +2,12 @@
 
 Este proyecto en PHP proporciona una solución completa para administrar y mantener la información de los egresados destacados del Servicio Nacional de Aprendizaje (SENA). La aplicación web está diseñada para facilitar la gestión eficiente de datos, permitiendo a los administradores agregar, editar y eliminar registros de egresados de manera intuitiva. Además, ofrece una funcionalidad de exploración que permite filtrar los egresados por carrera, brindando una experiencia de usuario más personalizada.
 
+## Acceso a la Página Web
+
+Puedes acceder a la página web de administración de egresados destacados del SENA haciendo clic en el siguiente enlace:
+
+[Visita la Página Web](https://cbaegresados.000webhostapp.com/)
+
 ## Características Destacadas
 
 ### Gestión Integral de Egresados
@@ -37,4 +43,3 @@ El proyecto se desarrolló utilizando una combinación de tecnologías web:
 Este proyecto se creó con el propósito de administrar eficientemente la información de los egresados destacados del SENA.
 
 ¡Esperamos que esta herramienta sea útil para mantener y compartir las historias de éxito y logros de los egresados del SENA!
-
